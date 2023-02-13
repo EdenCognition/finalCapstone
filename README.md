@@ -18,10 +18,10 @@ I developed this book management program to demonstrate strong understanding of 
    - Apply your favourite test techniques to examine the code
    - Run the program one you are fully satisfied with the code stack
 
-### Program capability
+### Program functionality
 
 The program has been develeped to answer the following options: 
-Program options in running order are:
+
    1. Add book
       - Adds a new row into books database
    2. Update book
