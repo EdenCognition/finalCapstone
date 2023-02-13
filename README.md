@@ -44,5 +44,9 @@ The program has been develeped to answer the following options:
 * If the 'books.db' is missing or note copied over, the program will create a new one and populate 5 default book entries
 * If the 'books.db' is present but is empty, then the program will populate 5 default book entries too 
 
+### Credits
+
+I created this program as per HyperionDev Software Enigneering Bootcamp Task 48. All rights reserved by HyperionDev. 
+
 
 Thanks in advance
