@@ -16,7 +16,7 @@ I developed this book management program to demonstrate strong understanding of 
    - Prompt 'Book_Management_Program.py' & 'books.db' into your favourite IDE
    - You may want to update your Python version to enable SQLite3 import
    - Apply your favourite test techniques to examine the code
-   - Run the program one you are fully satisfied with the code stack
+   - Run the program once you are fully satisfied with the code stack
 
 ### Program functionality
 
