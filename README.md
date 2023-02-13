@@ -34,7 +34,7 @@ The program has been develeped to answer the following options:
       - Show entire stock list
    6. Exit
       - Closes the program 
-    
+    ![main menu](https://user-images.githubusercontent.com/122488400/218485158-4f40b2e0-33b4-494a-85d7-c7defef5b47f.jpg)
 ### Addtional notes
 
 * If the 'books.db' is missing or note copied over, the program will create a new one and populate 5 default book entries
